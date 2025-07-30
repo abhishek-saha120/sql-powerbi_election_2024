@@ -39,9 +39,9 @@ Which party won how many seats in each state?
 Who was the winning candidate , trailing candidate by how many votes in each constituency?
 
 5. SCREENSHOTS:
- DASHBOARD 1:
- DASHBOARD 2:
- DASHBOARD 3:
- DASHBOARD 4:
- DASHBOARD 5:
+ DASHBOARD 1: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Overview%20analysis(1st).jpg
+ DASHBOARD 2: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/State%20demographic%20Analysis(2nd).jpg
+ DASHBOARD 3: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Political%20landscape(3rd).jpg
+ DASHBOARD 4: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Constituency%20analysis(4th).jpg
+ DASHBOARD 5: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Deatils%20grid(5th).jpg
    
