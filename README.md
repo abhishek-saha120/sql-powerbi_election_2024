@@ -28,7 +28,7 @@ The Dasboard was built using the following tools and technologies
 •  POWER BI Desktop - Main data visualization platforms used for report creation
 • DAX - Used for calculated measure, dynamic visuals, conditional logic, calculated coloumns
 • Data Modeling - Relationship established among tables (constituencywise_details, constituencywise_result,states,statewise_results,partywise_results)
-• File format- .pbix for developement and .jgp for dashboard preview
+• File format- .pbix for developement and .jgp for dashboard preview and .sql for sql query
 
 4. FEATURES:
 • Key question-
@@ -40,8 +40,14 @@ Who was the winning candidate , trailing candidate by how many votes in each con
 
 5. SCREENSHOTS:
  DASHBOARD 1: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Overview%20analysis(1st).jpg
+
  DASHBOARD 2: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/State%20demographic%20Analysis(2nd).jpg
+ 
  DASHBOARD 3: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Political%20landscape(3rd).jpg
+ 
  DASHBOARD 4: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Constituency%20analysis(4th).jpg
+ 
  DASHBOARD 5: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/c15cbf669cd3a531735eff65ee74eb026b4051a4/Deatils%20grid(5th).jpg
+
+ SQL query: https://github.com/abhishek-saha120/sql-powerbi_election_2024/blob/e5470071bbf61e1577a5c1bc7129dd3a064aab9c/india_election_project.sql
    
